@@ -1,0 +1,12 @@
+-Setup Expo 
+ https://reactnative.dev/docs/environment-setup
+
+npm i -g expo-cli 
+npm run android => android 
+----------------------------
+
+-Unsplash 
+https://unsplash.com/s/photos/coffee-beans
+- scrcpy
+https://github.com/Genymobile/scrcpy
+
